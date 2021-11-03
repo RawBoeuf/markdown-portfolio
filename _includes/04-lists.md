@@ -1,1 +1,7 @@
-Replace this with a list of your favorite things.
+#List of Good Foods:
+* Pizza
+  * Cheese
+  * Tomato
+  * Pepperoni
+* Hotdog
+* Sausage
